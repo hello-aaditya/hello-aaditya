@@ -37,9 +37,9 @@
 
 > (These stats will auto-update when you use GitHub Profile Readme Stats)
 
-![Aaditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=tokyonight)
+![Aaditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hello-aaditya\&show_icons=true\&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hello-aaditya\&layout=compact\&theme=tokyonight)
 
 ---
 
