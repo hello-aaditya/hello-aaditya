@@ -34,7 +34,9 @@ aaditya@arch:~$ whoami
 
 ---
 
-**`aaditya@arch:~$ cat skills.txt`**
+```bash
+aaditya@arch:~$ cat skills.txt
+```
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="spring" width="45" height="45"/>
