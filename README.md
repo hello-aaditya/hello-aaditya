@@ -1,11 +1,14 @@
-```
+<div align="center">
+<pre>
  █████╗  █████╗ ██████╗ ██╗████████╗██╗   ██╗ █████╗
 ██╔══██╗██╔══██╗██╔══██╗██║╚══██╔══╝╚██╗ ██╔╝██╔══██╗
 ███████║███████║██║  ██║██║   ██║    ╚████╔╝ ███████║
 ██╔══██║██╔══██║██║  ██║██║   ██║     ╚██╔╝  ██╔══██║
 ██║  ██║██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
-```
+</pre>
+</div>
+<div align="center">
 
 <div align="center">
 
@@ -37,7 +40,9 @@ aaditya@arch:~$ whoami
 ```bash
 aaditya@arch:~$ cat skills.txt
 ```
+**`aaditya@arch:~$ cat skills.txt`**
 
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="spring" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="45" height="45"/>
@@ -80,6 +85,7 @@ aaditya@arch:~$ cat skills.txt
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" alt="chrome" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" alt="firefox" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" alt="slack" width="45" height="45"/>
+</p>
 
 ---
 
