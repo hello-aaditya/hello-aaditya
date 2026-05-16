@@ -147,6 +147,7 @@ alt="slack" width="45" height="45"/>
 ![snake gif](https://github.com/hello-aaditya/hello-aaditya/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
 ---
 
 ## 🔗 Connect With Me
