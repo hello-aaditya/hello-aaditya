@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Aaditya+Kumar+👋;Java+Full+Stack+Developer;DSA+Enthusiast;Open+Source+Learner;Arch+Linux+User+🐧)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Aaditya+Kumar+👋;Java+Full+Stack+Developer;DSA+Enthusiast;Open+Source+Learner;)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -22,8 +22,6 @@
 - 💻 Aspiring **Full-Stack Java Developer** focused on backend with Spring Boot
 - ☕ Deep into **Core Java, OOP, Collections, and DSA**
 - 🗄️ Working with **MySQL & MariaDB** for relational data
-- 🐧 Daily-driving **Arch Linux** — terminal-first workflow
-- 📚 I write clean, structured notes that explain concepts like a teacher to a student
 - 🎯 **Goal:** Land a role as a **Java Developer / Full Stack Developer**
 
 ---
@@ -85,19 +83,6 @@
 | 📌 Up Next | Microservices Architecture |
 | 📌 Up Next | Docker + CI/CD |
 | 📌 Up Next | System Design |
-
----
-
-## 🗂️ Pinned Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [java-dsa](https://github.com/hello-aaditya) | Structured DSA solutions with clean Java — arrays, trees, graphs, DP | `Java` |
-| [springboot-api](https://github.com/hello-aaditya) | RESTful API with Spring Boot, Hibernate, MySQL, JWT auth | `Spring Boot` `MySQL` |
-| [fullstack-app](https://github.com/hello-aaditya) | Task manager — React frontend + Java Spring backend | `React` `Java` |
-| [linux-dotfiles](https://github.com/hello-aaditya) | Arch Linux config — shell, aliases, automation scripts | `Shell` `Arch` |
-
-> 🔗 Replace links above with your actual repository URLs once created.
 
 ---
 
@@ -165,26 +150,13 @@ Then go to **Settings → Actions → General** and enable "Read and write permi
 
 ---
 
-## 🌱 Learning Journey
-
-```
-[2022] ──► Started with C & C++
-[2023] ──► Learned Core Java & OOP
-[2024] ──► HTML, CSS, JavaScript, React basics
-[2024] ──► JDBC, Servlets, MySQL
-[2025] ──► Spring Boot, REST APIs, DSA prep
-[2025] ──► Full Stack Java path — actively building
-```
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-hello--aaditya-181717?style=for-the-badge&logo=github)](https://github.com/hello-aaditya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR-EMAIL-HERE)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:aadityakumar.prof@gmail.com)
 
 </div>
 
