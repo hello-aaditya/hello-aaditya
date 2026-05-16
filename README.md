@@ -126,28 +126,12 @@ alt="slack" width="45" height="45"/>
 
 ---
 
-## 📚 Currently Learning
-
-| Status | Topic |
-|--------|-------|
-| ✅ Done | Core Java — OOP, Collections, Exception Handling |
-| ✅ Done | JDBC, Servlets, basic REST |
-| 🔄 In Progress | Spring Boot + Spring MVC |
-| 🔄 In Progress | DSA — Arrays, Recursion, Trees, Graphs |
-| 🔄 In Progress | React.js + Full Stack integration |
-| 📌 Up Next | Spring Security + JWT |
-| 📌 Up Next | Microservices Architecture |
-| 📌 Up Next | Docker + CI/CD |
-| 📌 Up Next | System Design |
-
----
-
 ## 🏆 DSA Progress
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/helloaaditya/)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/helloaaditya)
 
 </div>
 
@@ -170,7 +154,7 @@ alt="slack" width="45" height="45"/>
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-hello--aaditya-181717?style=for-the-badge&logo=github)](https://github.com/hello-aaditya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hello-aaditya/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:aadityakumar.prof@gmail.com)
 
 </div>
