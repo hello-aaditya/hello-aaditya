@@ -3,14 +3,8 @@
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Aaditya+Kumar+👋;Java+Full+Stack+Developer;DSA+Enthusiast;Open+Source+Learner;)](https://git.io/typing-svg)
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+![Cover Picture](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3B0NmdveXpnc3Jzb3M2ejQwOGdkMDhtdHQzNzY3NXY1ZzBmenpzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif)
+
 
 </div>
 
